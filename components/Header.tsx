@@ -124,3 +124,4 @@ export default function Header() {
 
 
 // ебаное говнище этот vercel
+// похуй так-то аккуратность такта
